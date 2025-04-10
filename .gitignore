@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+
+# 生成したwav/txtファイル
+*.wav
+*.txt
