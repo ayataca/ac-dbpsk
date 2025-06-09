@@ -141,19 +141,6 @@ def main():
     args = sys.argv
 
     input_filename = "rock.wav"
-    # match args[1]:
-    #     case "rock":
-    #         input_filename = "rock.wav"
-    #     case "rock_2":
-    #         input_filename = "inst.wav"
-    #     case "speech":
-    #         input_filename = "speech.wav"
-    #     case "speech_2":
-    #         input_filename = "speech_2.wav"
-    #     case "jazz":
-    #         input_filename = "flamenco2.wav"
-    #     case "silent":
-    #         input_filename = "speech_silent.wav"
     if args[1] == "rock":
         input_filename = "rock.wav"
     elif args[1] == "rock_2":
