@@ -11,11 +11,11 @@
     - 音源はコマンドライン引数で指定する
         - エンコード  
           ```
-          python3 encode.py 音源の番号 埋め込む文字列(10文字以内)
+          python3 encode.py 音源名 埋め込む文字列(10文字以内)
           ```
         - デコード  
           ```
-          python3 decode.py 音源の番号
+          python3 decode.py 音源名
           ```
 
 - 実験の様子
