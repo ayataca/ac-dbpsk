@@ -21,7 +21,7 @@
 - 実験の様子
 <img src="https://github.com/user-attachments/assets/4ca5f0ca-42a6-46c0-8baa-8fc3e9e8d913" alt="実験の様子" width="400">
 
-- 卒業論文で行った研究に関して，
+- 本研究の
 1. 研究内容をまとめたポスター
 2. 卒論原稿
 3. 卒論発表スライド  
